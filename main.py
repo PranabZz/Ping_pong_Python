@@ -2,7 +2,7 @@ import pygame
 
 pygame.init()
 
-screen = pygame.display.set_mode((1200, 720))
+screen = pygame.display.set_mode((800, 600))
 
 # start menu
 menu = pygame.image.load("Untitled.png")
