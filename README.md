@@ -35,6 +35,7 @@ This is a classic ping pong game made using the pygame library.
   ```
 
 <h3>Screenshot form the game</h3>
-![Screenshot from 2022-04-02 16-55-21](https://user-images.githubusercontent.com/72617824/161382242-1c7a9ff4-a1a3-478e-8bb2-c399a622bf87.png)
+<img src="https://user-images.githubusercontent.com/72617824/161382300-6d238081-64d9-46b6-9535-ff25a6df30e7.png">
+
 
   
